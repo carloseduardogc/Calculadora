@@ -1,5 +1,5 @@
 # Calculadora
- Projeto de Programação
+
 def soma(a, b):
     return a + b
 
